@@ -1,0 +1,6 @@
+<resources>
+  <string name="app_name">Beam</string>
+  <string name="button_clear">Clear Logs</string>
+  <string name="label_logs">Logs</string>
+  <string name="button_sync">Refresh</string>
+</resources>
